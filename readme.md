@@ -1,5 +1,7 @@
 # SG Covid-19 Story Board
 
+Online posting address (tableau public community): https://public.tableau.com/app/profile/keyan.yang/viz/SGCovid-19Story/SGCovid-19Story
+
 ## Data visualization results
 
 ![SG Covid-19 Story (0)](pics/SG%20Covid-19%20Story%20(0).png)
